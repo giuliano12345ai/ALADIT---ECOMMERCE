@@ -128,5 +128,3 @@ iphone_planetzone
 
 ---------------- ESTRATEGIA DE CONTENIDO.-------------------------------------------------------
 
-instragram:
-tiktok:
